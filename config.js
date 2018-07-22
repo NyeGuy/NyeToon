@@ -3,7 +3,7 @@ module.exports = {
   author: 'NyeToon', // Required
   tagline: 'Sometimes Cartoonist',
   primaryColor: '#27479f', // Required
-  showHeaderImage: false,
+  showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
