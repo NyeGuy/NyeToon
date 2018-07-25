@@ -7,8 +7,8 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://rarebits.io',
-    website: 'https://rarebits.io',
+    website: 'http://nyewarburton.com',
+    website: 'http://nyewarburton.com',
     github: 'https://github.com/NyeGuy/NyeToon',
     twitter: 'https://twitter.com/nyetoon/',
     instagram: 'https://www.instagram.com/nyetoon/'
