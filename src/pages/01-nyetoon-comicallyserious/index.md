@@ -1,6 +1,6 @@
 ---
-title: Nyetoon Redux 01 - Comically Serious
-date: "2018-07-25"
+title: 01 Comically Serious
+date: "2018-07-22"
 featuredImage: './featured.jpg'
 ---
 

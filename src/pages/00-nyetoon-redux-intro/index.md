@@ -1,6 +1,6 @@
 ---
 title: Nyetoon Redux
-date: "2018-07-24"
+date: "2018-07-21"
 featuredImage: './featured.jpg'
 ---
 
