@@ -6,7 +6,7 @@ date: "2018-05-10"
 
 <!-- end -->
 
-Nyetoon can be read in any order. 
+Nyetoon can be read in any order. Or you may progress with the introduction button at the bottom of the page. 
 
 
 [Introduction](../00-nyetoon-redux-intro)
@@ -31,8 +31,9 @@ Nyetoon can be read in any order.
 <br>
 [A Day at the Beach](../10-nyetoon-adayatthebeach)
 <br>
-
-
 ![TableContentsHeader](./nyetoon_toc.jpg)
 
+[Colophon](../colophon)
+
+[@nyetoon](http://twitter.com/nyetoon)
 
