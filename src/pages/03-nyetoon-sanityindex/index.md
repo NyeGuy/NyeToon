@@ -1,6 +1,6 @@
 ---
-title: 03 The Sanity Index, part 01
-date: "2018-07-24"
+title: The Sanity Index, part 01
+date: "2018-06-18"
 featuredImage: './featured.jpg'
 ---
 
@@ -27,9 +27,8 @@ Just gonna jump in here. That one you just read - probably one of my favorite ev
 ![Comic](./nyetoon-sanityindex-04.jpg)
 ![Comic](./nyetoon-sanityindex-05.jpg)
 
-Still more to come. Please do the thing, with the social things. 
-Thanks, Thing. 
-Or, Friend rather. 
+Still more to come. 
+[@nyetoon](http://twitter.com/nyetoon)
 
 
 

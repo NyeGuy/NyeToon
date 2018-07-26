@@ -1,36 +1,35 @@
 ---
-title: Nyetoon Redux
-date: "2018-07-21"
+title: Introduction
+date: "2018-06-15"
 featuredImage: './featured.jpg'
 ---
 
-Nyetoon.com is dead. (... fuck wordpress) 
-
-But I've managed to save some of the comics! And seeing as some of the original files were stolen from the family storage locker. (...good times) I've decided to rebuild the content that is left into a new site. 
-
-And perhaps I'll be inspired to scribble a few new ones. 
+ Welcome to Nyetoon: The Redux.
 
 <!-- end -->
 
 ## Welcome to Nyetoon.net as a static web application. 
 
+Nyetoon.com is dead. 
+Please remove from your book marks. Sorry, I do not wish to talk about it. 
+
+The good news is that I've managed to save some of the comics! I've decided to rebuild the content that is left into new ways of showing them off.  
+
+Maybe I'll do some new ones!
+
 I've decided to take control of the content in a static web application, and will update all of the relevant information in the devlog on github. 
 
-### This is an experiment in open source cartooning
+### This is an experiment in iterative development
 
-Yes, I am saddened by the loss of my comics and wish to preserve them, but I also have been really interested in some new ideas in the creative community. 
+Blending scribbles and github. The pages will change and update. The app will change, the experience will change. New content will come, but the site as a whole will evolve into how I feel the content should best be displayed from a user experience perspective.  
 
-I intend to open source the tools that may come out of this. And I have some thoughts about what to do with the comics themselves.  
+I don't know how much I'll put in. I don't know quite how I will edit this. Should be fun, and agonizing. 
 
-#### More to come. See you soon?
+I'd love it if you could come along as I figure this out. 
+Im on FB, Twitter and instagram -
+[@nyetoon](http://twitter.com/nyetoon/) of course.
 
-Thanks for reading. (Ps, I added the best comic description of what I've been up to.)
+thx, have fun.
+Nye
 
-![Comic](./Nyetoon_PreppingforBaby.png)
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, No clue what I'm doing!)
-})
-```
 
