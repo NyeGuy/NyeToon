@@ -7,8 +7,8 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 10, // Required
   social: {
-    website: 'https://nyetoon/tableofcontents',
-    website: 'https://nyetoon/tableofcontents',
+    website: 'https://nyetoon.net/tableofcontents',
+    website: 'https://nyetoon.net/tableofcontents',
     //github: 'https://github.com/NyeGuy/NyeToon',
    // twitter: 'https://twitter.com/nyetoon/',
   }
