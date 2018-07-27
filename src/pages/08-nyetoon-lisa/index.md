@@ -12,5 +12,6 @@ Love you, babe.
 I write about her from time to time because I would be so fucked if she weren't around. Added bonus, she makes life so much more fun to live.
 
 ![Comic](./Master_OneMoreCuddle_01.jpg)
+![Comic](./nyetoon-lisabirthday.jpg)
 
 [@nyetoon](http://twitter.com/nyetoon)
