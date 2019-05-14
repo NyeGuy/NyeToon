@@ -50,6 +50,14 @@ Nyetoon can be read in any order. Or you may progress with the introduction butt
 [Floyd & Norm - Part Three](../15-nyetoon-floydandnorm03)
 <br>
 ...
+<br>
+<b>More</b>
+<br>
+[That time I took Chomsky to the Dodgers](../16-nyetoon-chomsky)
+<br>
+[Driving Comics](../17-nyetoon-drivingcomics)
+<br>
+[Better Call Saul](../18-nyetoon-bettercallsaul)
 
 [Colophon](../colophon)
 <br>
