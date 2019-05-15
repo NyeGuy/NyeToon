@@ -2,12 +2,12 @@
 title: Table of Contents
 date: "2018-05-10"
 ---
- 
+
 
 <!-- end -->
 ![TableContentsHeader](./nyetoon_toc.jpg)
 
-Nyetoon can be read in any order. Or you may progress with the introduction button at the bottom of the page. 
+Nyetoon, and my other comic experiments, can be read in any order.
 
 <b>Nyetoon</b>
 <br>
@@ -18,8 +18,6 @@ Nyetoon can be read in any order. Or you may progress with the introduction butt
 [Comically Serious](../01-nyetoon-comicallyserious)
 <br>
 [A New Day](../02-nyetoon-anewday)
-<br>
-[The Sanity Index - Part One](../03-nyetoon-sanityindex)
 <br>
 [Data Driven Fatherhood](../04-nyetoon-fatherhoodanalytics)
 <br>
@@ -37,6 +35,21 @@ Nyetoon can be read in any order. Or you may progress with the introduction butt
 <br>
 [Recession Bear](../11-nyetoon-recessionbear)
 <br>
+[That time I took Chomsky to the Dodgers](../16-nyetoon-chomsky)
+<br>
+[Driving Comics](../17-nyetoon-drivingcomics)
+<br>
+[Better Call Saul](../18-nyetoon-bettercallsaul)
+<br>
+[Nyetoon Classics 01](../19-nyetoon-nyetoonclassics01)
+<br>
+[Nyetoon Classics 02](../20-nyetoon-nyetoonclassics02)
+<br>
+...
+<br>
+<b>The Sanity Index</b>
+[The Sanity Index - Part One](../03-nyetoon-sanityindex)
+<br>
 [The Sanity Index - Part Two - Some Old Bullshit](../12-nyetoon-someoldbullshit)
 <br>
 ...
@@ -52,16 +65,10 @@ Nyetoon can be read in any order. Or you may progress with the introduction butt
 ...
 <br>
 <b>More</b>
-<br>
-[That time I took Chomsky to the Dodgers](../16-nyetoon-chomsky)
-<br>
-[Driving Comics](../17-nyetoon-drivingcomics)
-<br>
-[Better Call Saul](../18-nyetoon-bettercallsaul)
+
 
 [Colophon](../colophon)
 <br>
 ...
 <br>
 [@nyetoon](http://twitter.com/nyetoon)
-
