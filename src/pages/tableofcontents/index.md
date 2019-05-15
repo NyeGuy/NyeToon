@@ -47,6 +47,8 @@ Nyetoon, and my other comic experiments, can be read in any order.
 <br>
 ...
 <br>
+...
+<br>
 <b>The Sanity Index</b>
 [The Sanity Index - Part One](../03-nyetoon-sanityindex)
 <br>
