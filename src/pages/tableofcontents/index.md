@@ -15,62 +15,53 @@ Nyetoon, and my other comic experiments, can be read in any order.
 <br>
 [Introduction](../00-nyetoon-redux-intro)
 <br>
-[Comically Serious](../01-nyetoon-comicallyserious)
+[The Guys in the Ties](../01-nyetoon-theguysintheties)
 <br>
-[A New Day](../02-nyetoon-anewday)
+[Early Absurdity](../02-nyetoon-earlyabsurdity)
 <br>
-[Data Driven Fatherhood](../04-nyetoon-fatherhoodanalytics)
+[A Little Death](../03-nyetoon-alittledeath)
 <br>
-[Lawyers](../05-nyetoon-lawyercartoons)
+[The Sanity Index](../04-nyetoon-thesanityindex)
 <br>
-[Rusty](../06-nyetoon-rusty)
+[The First Nyetoon](../05-nyetoon-thefirstnyetoon)
 <br>
-[Hello Old Friend](../07-nyetoon-failure)
+[Recession Bear 01](../06-nyetoon-recessionbear01)
 <br>
-[Lisa](../08-nyetoon-lisa)
+[Recession Bear 01](../07-nyetoon-recessionbear02)
 <br>
-[Meh](../09-nyetoon-meh)
+[Floyd and Norm Part I](../08-nyetoon-floydandnorm01)
 <br>
-[A Day at the Beach](../10-nyetoon-adayatthebeach)
+[Floyd and Norm Part II](../09-nyetoon-floydandnorm02)
 <br>
-[Recession Bear](../11-nyetoon-recessionbear)
+[Floyd and Norm Part III](../10-nyetoon-floydandnorm03)
 <br>
-[That time I took Chomsky to the Dodgers](../16-nyetoon-chomsky)
+[Lisa](../11-nyetoon-lisa)
 <br>
-[Driving Comics](../17-nyetoon-drivingcomics)
+[Finding My Stride](../12-nyetoon-findingmystride)
 <br>
-[Better Call Saul](../18-nyetoon-bettercallsaul)
+[Net Neutrality](../13-nyetoon-netneutrality)
 <br>
-[Nyetoon Classics 01](../19-nyetoon-nyetoonclassics01)
+[Taking a Break and Meh](../14-nyetoon-takingabreakandmeh)
 <br>
-[Nyetoon Classics 02](../20-nyetoon-nyetoonclassics02)
+[Getting Married](../15-nyetoon-gettingmarried)
 <br>
-...
+[Marketing, Lawyers and Should](../16-nyetoon-marketinglawyersandshould)
 <br>
-...
+[Family and Paper Nyetoon](../17-nyetoon-familyandpapernyetoons)
 <br>
-<b>The Sanity Index</b>
-[The Sanity Index - Part One](../03-nyetoon-sanityindex)
+[Fatherhood and Failure](../18-nyetoon-fatherhoodandfailure)
 <br>
-[The Sanity Index - Part Two - Some Old Bullshit](../12-nyetoon-someoldbullshit)
+[Driving in Los Anegeles](../19-nyetoon-drivinginlosangeles)
 <br>
-...
+[TobyToon](../20-nyetoon-tobytoon)
 <br>
-<b>Floyd & Norm</b>
-<br>
-[Floyd & Norm - Part One](../13-nyetoon-floydandnorm01)
-<br>
-[Floyd & Norm - Part Two](../14-nyetoon-floydandnorm02)
-<br>
-[Floyd & Norm - Part Three](../15-nyetoon-floydandnorm03)
+[Odds and Ends](../21-nyetoon-oddsandends)
 <br>
 ...
 <br>
-<b>More</b>
-
-
+...
 [Colophon](../colophon)
 <br>
 ...
 <br>
-[@nyetoon](http://twitter.com/nyetoon)
+[nyewarburton.com](http://nyewarburton.com)

@@ -2,15 +2,20 @@
 title: Colophon
 date: "2018-05-09"
 ---
- 
+
 <!-- end -->
 
 ![Colophon](./colophon_image.jpg)
-Nyetoon is written, illustrated and developed by Nye Warburton. Nyetoon.net is a static web application built with gatsby JS, and hosted using Netlify.
+Nyetoon was written, illustrated and developed by Nye Warburton.
 
-Comics are written and drawn on paper, with photoshop for clean up and coloring. 
+This is a static web application built with gatsby JS, and hosted using Netlify. It is a mod of Ryan Fitzgerald's DevBlog template.
 
-More information on 'DevBlog : Gatsby Template' is found [Nyetoon GitHub](https://github.com/NyeGuy/NyeToon)
+Comics are written and drawn on paper, with photoshop for clean up and coloring.
 
-Please direct communication to [@nyetoon](http://twitter.com/nyetoon)
 
+## License
+
+Licensed under MIT License. See [LICENSE.md](LICENSE.md) for more.
+
+For more information about the author visit
+[nyewarburton.com](http://nyewarburton.com)
