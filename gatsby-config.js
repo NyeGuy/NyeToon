@@ -1,7 +1,7 @@
 const userConfig = require('./config');
 
 module.exports = {
-  pathPrefix: `/Nyetoon`,
+  pathPrefix: `/NyeToon`,
   siteMetadata: {
     title: userConfig.title,
     author: userConfig.author,
